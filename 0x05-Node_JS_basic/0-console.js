@@ -1,11 +1,5 @@
-/*
- * Displays a message on the STDOUT.
- * @param {String} msg The message to display.
- * @author Bezaleel Olakunori <https://github.com/B3zaleel>
- */
+function displayMessage(data) {
+  console.log(data);
+}
 
-const displayMessage = (msg) => {
-    console.log(msg);
-  };
-  
-  module.exports = displayMessage;
+module.exports = displayMessage;
