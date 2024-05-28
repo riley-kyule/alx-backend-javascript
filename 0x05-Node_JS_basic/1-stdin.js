@@ -15,3 +15,4 @@ process.stdin.on('end', function display() {
   // Do this on EOF from other commands
   process.stdout.write('This important software is now closing\n');
 });
+
