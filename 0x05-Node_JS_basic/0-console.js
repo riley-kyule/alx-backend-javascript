@@ -7,5 +7,5 @@ function displayMessage(arg) {
     // print to STDOUT
     console.log(arg);
   }
-  
+
   module.exports = displayMessage;
