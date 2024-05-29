@@ -9,4 +9,3 @@ function displayMessage(arg) {
   }
   
   module.exports = displayMessage;
-
